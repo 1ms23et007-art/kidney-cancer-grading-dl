@@ -16,6 +16,12 @@ The objective of this project is to develop and evaluate deep learning models fo
 
 This project was carried out under the supervision of **Dr. Shyam**, focusing on the application of deep learning techniques for automated kidney cancer grading from histopathology images. The project involves implementing and evaluating multiple CNN architectures using transfer learning.
 
+## Project Pipeline
+
+The overall workflow of the project follows a standard deep learning pipeline for medical image classification.
+
+Dataset → Preprocessing → Data Augmentation → Train/Validation/Test Split → Transfer Learning → Model Training → Evaluation → Model Comparison
+
 
 ## Models Implemented
 | Model | Test Accuracy | Test Loss | Trainable Params |
