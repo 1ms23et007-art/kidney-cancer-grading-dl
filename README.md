@@ -7,6 +7,16 @@
 ## Overview
 This project implements and compares three deep learning models for automated kidney cancer grading from histopathology images. The models classify images into 5 grades (Grade 0–4) using transfer learning on pretrained ImageNet weights.
 
+## Objective
+
+The objective of this project is to develop and evaluate deep learning models for automated kidney cancer grading using histopathology images. The project applies transfer learning on pretrained convolutional neural networks to classify tissue images into different cancer grades and compares the performance of multiple architectures to determine the most effective model.
+
+
+## Project Context
+
+This project was carried out under the supervision of **Dr. Shyam**, focusing on the application of deep learning techniques for automated kidney cancer grading from histopathology images. The project involves implementing and evaluating multiple CNN architectures using transfer learning.
+
+
 ## Models Implemented
 | Model | Test Accuracy | Test Loss | Trainable Params |
 |-------|-------------|-----------|-----------------|
